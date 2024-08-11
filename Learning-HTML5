@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Learning HTML5</title>
+  </head>
+
+  <body>
+    <h1>The things I know for HTML5</h1>
+
+    <p>- basics of HTML format - HTML Links - attaching photos</p>
+
+    <a href="index.html"> Back to Main Page </a>
+  </body>
+</html>
